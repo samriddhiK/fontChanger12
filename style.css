@@ -1,0 +1,46 @@
+.heading
+{
+    color:rgb(255, 255, 255);
+    font-size: 23px;
+    width: 100%;
+    margin:0px;
+    box-shadow:5px 5px 5px 5px rgb(2, 73, 73);
+    background-color: rgb(7, 87, 87);
+    font-family: 'Borel', cursive;
+    font-family: 'Bricolage Grotesque', sans-serif;
+    font-family: 'Mea Culpa', cursive;
+    font-family: 'Pacifico', cursive;
+    font-family: 'Tilt Prism', cursive;
+}
+
+.note
+{
+    font-size: 15px;
+    color: rgb(255, 255, 255);
+    font-family: 'Pacifico', cursive;
+}
+
+.copy_right_footer {
+  position: fixed;
+  color: rgb(255, 255, 255);
+  bottom: 0;
+  width:100%;
+  background-color: rgb(7, 87, 87);
+  line-height: 3;
+  text-align: center;
+  box-shadow:5px 5px 5px 5px rgb(5, 110, 110);
+  font-family: 'Pacifico', cursive;
+}
+
+canvas
+{
+    border:5px solid rgb(5, 88, 84);
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px rgb(2, 102, 102);
+    font-family: 'Pacifico', cursive;
+}
+
+body
+{
+    background-image: url("https://thumbs.dreamstime.com/z/scrapbook-nature-seamless-pattern-doodle-flowers-leaves-ornament-turquoise-background-scrapbook-nature-seamless-pattern-208122183.jpg");
+}
